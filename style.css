@@ -50,7 +50,7 @@
     display: flex;
 }
 
-.stormtrooper {
+.trooper {
     padding: 2rem;
     height: 100vh;
 }
@@ -109,6 +109,6 @@ body {
 p {
     font-family: StarWars;
     color: rgb(182, 34, 34);
-    font-size: 3rem;
+    font-size: 2.75rem;
     padding: 1rem;
 }
